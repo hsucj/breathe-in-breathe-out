@@ -1717,7 +1717,7 @@
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #FF5722;
+			color: #0D96B6;
 		}
 
 	strong, b {
@@ -2042,8 +2042,8 @@
 		input[type="button"]:hover,
 		button:hover,
 		.button:hover {
-			border-color: #FF5722 !important;
-			color: #FF5722 !important;
+			border-color: #0D96B6 !important;
+			color: #0D96B6 !important;
 		}
 
 			input[type="submit"]:hover:after,
@@ -2410,7 +2410,7 @@
 			display: block;
 			background: #ffffff;
 			border-radius: 100%;
-			color: #f39c12;
+			color: #0D96B6;
 			text-align: center;
 			line-height: 2.5em;
 			margin: 0 0 1.3em 0;
@@ -2422,27 +2422,27 @@
 
 				/* Icon Colours Internal */ 
 				.wrapper.style1 .icon.major:before {
-					color: #FF5722;
+					color: #0D96B6;
 				}
 
 				.wrapper.style1-alt .icon.major:before {
-					color: #FF5722;
+					color: #0D96B6;
 				}
 
 				.wrapper.style2 .icon.major:before {
-					color: #FF5722;
+					color: #0D96B6;
 				}
 
 				.wrapper.style2-alt .icon.major:before {
-					color: #FF5722;
+					color: #0D96B6;
 				}
 
 				.wrapper.style3 .icon.major:before {
-					color: #FF5722;
+					color: #0D96B6;
 				}
 
 				.wrapper.style3-alt .icon.major:before {
-					color: #FF5722;
+					color: #0D96B6;
 				}
 
 /* Image */
@@ -3139,7 +3139,7 @@
 			}
 
 		.wrapper.alt {
-			background-color: #f39c12;
+			background-color: #0d96b6;
 		}
 
 		.wrapper.style1 {
@@ -3271,7 +3271,7 @@
 		display: -webkit-flex;
 		display: -ms-flex;
 		display: flex;
-		background-color: #f6994f;
+		background-color: #0D96B6;
 		cursor: default;
 		padding: 1.75em 2em;
 	}
@@ -3677,7 +3677,7 @@
 			}
 
 			#sidebar nav a:after {
-				background-color: #FF5722;
+				background-color: #0D96B6;
 				-moz-transition: max-width 0.2s ease;
 				-webkit-transition: max-width 0.2s ease;
 				-ms-transition: max-width 0.2s ease;
@@ -3687,15 +3687,15 @@
 
 			/* Link Text Color */ 
 			#sidebar nav a:hover {
-				color: #FF5722;
+				color: #0D96B6;
 			}
 			/* Border Underline */
 			#sidebar nav a:hover:before {
-				background-color: #FF5722;
+				background-color: #0D96B6;
 			}
 
 			#sidebar nav a.active {
-				color: #FF5722;
+				color: #0D96B6;
 			}
 
 				#sidebar nav a.active:after {
@@ -3770,7 +3770,7 @@
 
 						#sidebar nav a:after {
 							background-image: none;
-							background-color: #FF5722;
+							background-color: #0D96B6;
 						}
 
 		}
